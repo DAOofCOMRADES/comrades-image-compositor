@@ -1,1 +1,1 @@
-# olympus-image-compositor
+# comrades-image-compositor
